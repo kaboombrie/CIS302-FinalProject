@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">RestaurantFinder</string>
+    <string name="app_name">Restaurant Finder</string>
+    <string name="nearby_rest">Nearby Restaurants</string>
+    <string name="search_rest">Search Restaurants</string>
+    <string name="notifications">Notifications</string>
+    <string name="sign_in">Sign In</string>
 </resources>
